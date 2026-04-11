@@ -11,14 +11,14 @@
             "id": "64958e6c9e5c51cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CZSC.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "CZSCYL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CZSC"
+              "icon": "lucide-file",
+              "title": "CZSCYL"
             }
           }
         ]
@@ -204,8 +204,12 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "ba71cb8aa16fb4d9",
+  "active": "64958e6c9e5c51cc",
   "lastOpenFiles": [
+    "欢迎.md",
+    "CZSC.pdf",
+    "CZSCYL.md",
+    "CZSZ.md",
     "MDT记录-A260236.md",
     "MDT记录-汤巧玲（A260236）.md",
     "MDT记录-A260303.md",
@@ -214,7 +218,6 @@
     "MDT记录-A260274.md",
     "MDT记录-A252027.md",
     "MDT记录- A252103.md",
-    "欢迎.md",
     "未命名.canvas",
     "assets/MDT记录-高青霞 （ A260396）/file-20260407121637555.png",
     "assets/MDT记录-阙淑华（ A260274）/file-20260324130326149.png",
@@ -232,9 +235,6 @@
     "未命名 2.canvas",
     "未命名 1.md",
     "未命名 1.canvas",
-    "CZSZ.md",
-    "CZSCYL.md",
-    "CZSC.pdf",
     "assets/MDT记录-高青霞 （ A260396）",
     "assets/MDT记录-阙淑华（ A260274）",
     "assets/MDT记录-洪雅贞（ A252103）",
