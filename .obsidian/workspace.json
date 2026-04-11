@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "83c90165851c8742",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd4853097a8d081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64958e6c9e5c51cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33f6dab11ecfcc10",
+    "type": "split",
+    "children": [
+      {
+        "id": "d489c7d76c2adb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba71cb8aa16fb4d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e77d966f40a12728",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fd0803d693e83c41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adf9ddbd8f5eced4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b513cf4a4bfdea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b95303a758658c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "29faaf4f62aeec6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "c2bdb12e2b2fb03a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2d6f5c3dd5335791",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7179cf92049b8c77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "74a6589f1c25e2b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false
+    }
+  },
+  "active": "64958e6c9e5c51cc",
+  "lastOpenFiles": [
+    "MDT记录-A260236.md",
+    "MDT记录-汤巧玲（A260236）.md",
+    "MDT记录-A260303.md",
+    "MDT记录- A260344.md",
+    "MDT记录- A260396.md",
+    "MDT记录-A260274.md",
+    "MDT记录-A252027.md",
+    "MDT记录- A252103.md",
+    "欢迎.md",
+    "未命名.canvas",
+    "assets/MDT记录-高青霞 （ A260396）/file-20260407121637555.png",
+    "assets/MDT记录-阙淑华（ A260274）/file-20260324130326149.png",
+    "assets/MDT记录-阙淑华（ A260274）/file-20260324130307649.png",
+    "assets/MDT记录-阙淑华（ A260274）/file-20260324130212801.png",
+    "assets/MDT记录-阙淑华（ A260274）/file-20260324130152820.png",
+    "assets/MDT记录-洪雅贞（ A252103）/file-20260324112939616.png",
+    "assets/MDT记录-李熠榕（ A252027）/file-20260324095709266.png",
+    "assets/MDT记录-李熠榕（ A252027）/file-20260324094941765.png",
+    "assets/MDT记录-李熠榕（ A252027）/file-20260324094854638.png",
+    "assets/MDT记录-李熠榕（ A252027）/file-20260324094829421.png",
+    "未命名.md",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.md",
+    "未命名 1.canvas",
+    "CZSZ.md",
+    "CZSCYL.md",
+    "CZSC.pdf",
+    "assets/MDT记录-高青霞 （ A260396）",
+    "assets/MDT记录-阙淑华（ A260274）",
+    "assets/MDT记录-洪雅贞（ A252103）",
+    "assets/MDT记录-李熠榕（ A252027）",
+    "assets/MDT记录-周林青（ A260303）",
+    "assets/MDT记录-付福春（ A260344）",
+    "assets",
+    "obsidian-recovery-codes.txt",
+    "obsidian-recovery-codes.txt.crdownload"
+  ]
+}
