@@ -11,10 +11,14 @@
             "id": "64958e6c9e5c51cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "CZSC.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "CZSC"
             }
           }
         ]
@@ -200,7 +204,7 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "64958e6c9e5c51cc",
+  "active": "ba71cb8aa16fb4d9",
   "lastOpenFiles": [
     "MDT记录-A260236.md",
     "MDT记录-汤巧玲（A260236）.md",
