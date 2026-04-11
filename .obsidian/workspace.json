@@ -11,6 +11,22 @@
             "id": "64958e6c9e5c51cc",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CZSC.pdf",
+                "page": 69,
+                "left": -10,
+                "top": 65,
+                "zoom": 1.5621850433380366
+              },
+              "icon": "lucide-file-text",
+              "title": "CZSC"
+            }
+          },
+          {
+            "id": "a565f8d9a65e081d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "CZSCYL.md",
@@ -78,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "adf9ddbd8f5eced4",
@@ -206,9 +222,9 @@
   },
   "active": "64958e6c9e5c51cc",
   "lastOpenFiles": [
-    "欢迎.md",
-    "CZSC.pdf",
     "CZSCYL.md",
+    "CZSC.pdf",
+    "欢迎.md",
     "CZSZ.md",
     "MDT记录-A260236.md",
     "MDT记录-汤巧玲（A260236）.md",
