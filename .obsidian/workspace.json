@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "7e89612d9b2e4308",
+        "id": "8309aaf52dd637ad",
         "type": "tabs",
         "children": [
           {
-            "id": "31ba906505871e6e",
+            "id": "849b6030444081d4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CZSC.pdf",
+                "page": 148,
+                "left": -8,
+                "top": 733,
+                "zoom": 1.8141503729086879
+              },
+              "icon": "lucide-file-text",
+              "title": "CZSC"
+            }
+          },
+          {
+            "id": "118eaeca9c008985",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +37,8 @@
               "title": "CZSCYL1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "adf9ddbd8f5eced4",
@@ -203,7 +221,7 @@
       "nutstore-sync:Stop sync": false
     }
   },
-  "active": "31ba906505871e6e",
+  "active": "118eaeca9c008985",
   "lastOpenFiles": [
     "CZSC.pdf",
     "CZSCYL1.md",
