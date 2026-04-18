@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb1684e6e4ed4c2",
+        "id": "76042eaa6a80462c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae80ad28cad0ae53",
+            "id": "abab8c4e7c301e04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "czsc.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "czsc"
+              "title": "新标签页"
             }
           }
         ]
@@ -200,9 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae80ad28cad0ae53",
+  "active": "abab8c4e7c301e04",
   "lastOpenFiles": [
     "czsc.md",
+    "assets/media/image21.jpeg",
+    "未命名.md",
     "CZSC.pdf",
     "conflict-files-obsidian-git.md",
     "czsc md.rar",
@@ -215,12 +213,10 @@
     "assets/media/image59.jpeg",
     "assets/media/image58.jpeg",
     "assets/media/image57.jpeg",
-    "assets/media/image56.jpeg",
     "assets/media",
     "assets",
     "czscmd",
     "CZSCYL1.md",
-    "未命名.md",
     "CZSC.docx",
     "未命名.base",
     "欢迎.md",
