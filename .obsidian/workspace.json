@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8edc97c61e732906",
+        "id": "6b37705e828cde78",
         "type": "tabs",
         "children": [
           {
-            "id": "231791985cb326a4",
+            "id": "828e694c7b52933f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,9 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "231791985cb326a4",
+  "active": "828e694c7b52933f",
   "lastOpenFiles": [
+    "CZSC-PDF.pdf",
     "czsc.md",
+    "conflict-files-obsidian-git.md",
     "czsc md.rar",
     "assets/media/image9.jpeg",
     "assets/media/image8.jpeg",
@@ -212,7 +214,6 @@
     "assets/media/image56.jpeg",
     "assets/media",
     "assets",
-    "CZSC.pdf",
     "czscmd",
     "CZSCYL1.md",
     "未命名.md",
