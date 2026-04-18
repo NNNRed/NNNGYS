@@ -11,10 +11,14 @@
             "id": "828e694c7b52933f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "czsc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "czsc"
             }
           }
         ]
@@ -196,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba71cb8aa16fb4d9",
+  "active": "828e694c7b52933f",
   "lastOpenFiles": [
     "CZSC.pdf",
     "czsc.md",
