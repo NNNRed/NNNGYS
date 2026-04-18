@@ -1,17 +1,14 @@
 [
-  "nutstore-sync",
+  "automatic-table-of-contents",
+  "table-editor-obsidian",
   "calendar",
   "dataview",
-  "obsidian-kanban",
-  "obsidian-style-settings",
-  "obsidian-tasks-plugin",
-  "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "quickadd",
-  "obsidian-icon-folder",
   "editing-toolbar",
-  "omnisearch",
-  "obsidian-linter",
   "obsidian-git",
-  "pdf-plus"
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-linter",
+  "nutstore-sync",
+  "omnisearch"
 ]

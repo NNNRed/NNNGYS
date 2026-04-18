@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8309aaf52dd637ad",
+        "id": "8edc97c61e732906",
         "type": "tabs",
         "children": [
           {
-            "id": "849b6030444081d4",
+            "id": "231791985cb326a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CZSC.pdf",
-                "page": 148,
-                "left": -8,
-                "top": 733,
-                "zoom": 1.8141503729086879
-              },
-              "icon": "lucide-file-text",
-              "title": "CZSC"
-            }
-          },
-          {
-            "id": "118eaeca9c008985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CZSCYL1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CZSCYL1"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "adf9ddbd8f5eced4",
@@ -184,7 +162,7 @@
             }
           },
           {
-            "id": "74a6589f1c25e2b7",
+            "id": "76bff50c54d53869",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -202,14 +180,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -217,16 +193,32 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "nutstore-sync:Start sync": false,
-      "nutstore-sync:Stop sync": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "118eaeca9c008985",
+  "active": "231791985cb326a4",
   "lastOpenFiles": [
+    "czsc.md",
+    "czsc md.rar",
+    "assets/media/image9.jpeg",
+    "assets/media/image8.jpeg",
+    "assets/media/image7.jpeg",
+    "assets/media/image61.jpeg",
+    "assets/media/image60.jpeg",
+    "assets/media/image6.jpeg",
+    "assets/media/image59.jpeg",
+    "assets/media/image58.jpeg",
+    "assets/media/image57.jpeg",
+    "assets/media/image56.jpeg",
+    "assets/media",
+    "assets",
     "CZSC.pdf",
+    "czscmd",
     "CZSCYL1.md",
+    "未命名.md",
+    "CZSC.docx",
+    "未命名.base",
     "欢迎.md",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094719460.png",
     "CZSZ.md",
     "MDT记录-A260236.md",
     "MDT记录-汤巧玲（A260236）.md",
@@ -237,16 +229,6 @@
     "MDT记录-A252027.md",
     "MDT记录- A252103.md",
     "未命名.canvas",
-    "assets/MDT记录-高青霞 （ A260396）/file-20260407121637555.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130326149.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130307649.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130212801.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130152820.png",
-    "assets/MDT记录-洪雅贞（ A252103）/file-20260324112939616.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324095709266.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094941765.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094854638.png",
-    "未命名.md",
     "未命名 4.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
@@ -254,12 +236,6 @@
     "未命名 1.canvas",
     "assets/MDT记录-高青霞 （ A260396）",
     "assets/MDT记录-阙淑华（ A260274）",
-    "assets/MDT记录-洪雅贞（ A252103）",
-    "assets/MDT记录-李熠榕（ A252027）",
-    "assets/MDT记录-周林青（ A260303）",
-    "assets/MDT记录-付福春（ A260344）",
-    "assets",
-    "obsidian-recovery-codes.txt",
-    "obsidian-recovery-codes.txt.crdownload"
+    "assets/MDT记录-洪雅贞（ A252103）"
   ]
 }
