@@ -37,8 +37,7 @@
               "title": "CZSCYL1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6014dd621802abc",
+  "active": "abab8c4e7c301e04",
   "lastOpenFiles": [
-    "CZSC.pdf",
     "CZSCYL1.md",
+    "CZSC.pdf",
     "czsc.md",
     "assets/media/image21.jpeg",
     "未命名.md",
