@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "CZSC.pdf",
-                "page": 86,
+                "page": 88,
                 "left": -8,
-                "top": 64,
-                "zoom": 1.8141503729086876
+                "top": 730,
+                "zoom": 1.8695827454142309
               },
               "icon": "lucide-file-text",
               "title": "CZSC"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "adf9ddbd8f5eced4",
@@ -201,9 +200,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "nutstore-sync:Stop sync": false,
       "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
