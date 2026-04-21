@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7076989aff4998dd",
+        "id": "353a07266286db94",
         "type": "tabs",
         "children": [
           {
-            "id": "30862fe1ef6a02b6",
+            "id": "ee1d8c3654a38e51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "czsc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "czsc"
             }
           }
         ]
@@ -180,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "omnisearch:Omnisearch": false,
@@ -199,12 +204,25 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "30862fe1ef6a02b6",
+  "active": "ee1d8c3654a38e51",
   "lastOpenFiles": [
-    "CZSC.pdf",
     "CZSCYL1.md",
+    "czsc.md",
+    "conflict-files-obsidian-git.md",
+    "assets/media/image21.jpeg",
+    "assets/media/image61.jpeg",
+    "assets/media/image60.jpeg",
+    "assets/media/image59.jpeg",
+    "assets/media/image58.jpeg",
+    "assets/media/image57.jpeg",
+    "assets/media/image56.jpeg",
+    "assets/media/image55.jpeg",
+    "assets/media/image54.jpeg",
+    "assets/media/image53.jpeg",
+    "assets/media",
+    "assets",
+    "CZSC.pdf",
     "欢迎.md",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094719460.png",
     "CZSZ.md",
     "MDT记录-A260236.md",
     "MDT记录-汤巧玲（A260236）.md",
@@ -215,15 +233,6 @@
     "MDT记录-A252027.md",
     "MDT记录- A252103.md",
     "未命名.canvas",
-    "assets/MDT记录-高青霞 （ A260396）/file-20260407121637555.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130326149.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130307649.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130212801.png",
-    "assets/MDT记录-阙淑华（ A260274）/file-20260324130152820.png",
-    "assets/MDT记录-洪雅贞（ A252103）/file-20260324112939616.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324095709266.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094941765.png",
-    "assets/MDT记录-李熠榕（ A252027）/file-20260324094854638.png",
     "未命名.md",
     "未命名 4.canvas",
     "未命名 3.canvas",
@@ -236,8 +245,6 @@
     "assets/MDT记录-李熠榕（ A252027）",
     "assets/MDT记录-周林青（ A260303）",
     "assets/MDT记录-付福春（ A260344）",
-    "assets",
-    "obsidian-recovery-codes.txt",
-    "obsidian-recovery-codes.txt.crdownload"
+    "obsidian-recovery-codes.txt"
   ]
 }
