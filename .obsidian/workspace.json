@@ -11,14 +11,16 @@
             "id": "ee1d8c3654a38e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "czsc.md",
-                "mode": "source",
-                "source": false
+                "file": "CZSC.pdf",
+                "page": 45,
+                "left": -36,
+                "top": 521,
+                "zoom": 0.4157427937915743
               },
-              "icon": "lucide-file",
-              "title": "czsc"
+              "icon": "lucide-file-text",
+              "title": "CZSC"
             }
           }
         ]
@@ -207,6 +209,7 @@
   "active": "ee1d8c3654a38e51",
   "lastOpenFiles": [
     "CZSCYL1.md",
+    "CZSC.pdf",
     "czsc.md",
     "conflict-files-obsidian-git.md",
     "assets/media/image21.jpeg",
@@ -221,7 +224,6 @@
     "assets/media/image53.jpeg",
     "assets/media",
     "assets",
-    "CZSC.pdf",
     "欢迎.md",
     "CZSZ.md",
     "MDT记录-A260236.md",
