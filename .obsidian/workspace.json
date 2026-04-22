@@ -16,8 +16,8 @@
                 "file": "CZSC.pdf",
                 "page": 102,
                 "left": -8,
-                "top": 707,
-                "zoom": 1.8695827454142309
+                "top": 123,
+                "zoom": 1.8695827454142306
               },
               "icon": "lucide-file-text",
               "title": "CZSC"
@@ -37,8 +37,7 @@
               "title": "CZSCYL1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6014dd621802abc",
+  "active": "abab8c4e7c301e04",
   "lastOpenFiles": [
-    "CZSC.pdf",
     "CZSCYL1.md",
+    "CZSC.pdf",
     "czsc.md",
     "assets/media/image21.jpeg",
     "未命名.md",
